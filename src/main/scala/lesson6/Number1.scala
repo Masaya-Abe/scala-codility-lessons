@@ -1,3 +1,5 @@
+package lesson6
+
 import scala.collection.JavaConverters._
 
 // you can write to stdout for debugging purposes, e.g.
